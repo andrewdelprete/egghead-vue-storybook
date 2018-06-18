@@ -5,7 +5,7 @@ This is a brief example of how you can use [Storybook](https://github.com/jamesk
 
 ```
 yarn
-yarn start
+yarn storybook
 ```
 
 ## Egghead Video
