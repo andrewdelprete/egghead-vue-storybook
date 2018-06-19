@@ -1,5 +1,5 @@
 # egghead-vue-storybook
-This is a brief example of how you can use [Storybook](https://github.com/jamesknelson/mdxc)in your Vue application.
+This is a brief example of how you can use [Storybook](https://github.com/storybooks/storybook) in your Vue application.
 
 ## Installation
 
